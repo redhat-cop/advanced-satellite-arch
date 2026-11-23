@@ -14,7 +14,7 @@ satellites:
     disconnected_satellites:
 
 # Child group of satellites
-connected_satellite:
+connected_satellites:
   hosts:
     satellite.domain:
 
